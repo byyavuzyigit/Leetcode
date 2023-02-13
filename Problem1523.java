@@ -1,4 +1,4 @@
-public class Problem1524 {
+public class Problem1523 {
 
     public int countOdds(int low, int high) {
 
