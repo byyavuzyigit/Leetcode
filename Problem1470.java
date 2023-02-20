@@ -25,7 +25,6 @@ public class Problem1470 {
             }
 
         }
-
         return nums;
     }
 }
