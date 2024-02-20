@@ -69,3 +69,13 @@
 Problem1929.java,d/9/d9068646df0b063a6416da557b2046b7dacedfdc
 @
 Problem1470.java,9/2/926c8c1e809bae6d2f2ffdb0a97dc73dd8f7a70e
+@
+Problem1845.java,5/a/5abb55d6d9117023a0add2abf18f7643ff853871
+?
+Problem451.java,5/1/512a58e3e03a354e64bd15f8f4a7a927a0df8c88
+?
+Problem387.java,8/0/807c4c857174523218af78e358a7fcfbd4fb8444
+?
+Problem242.java,8/4/84065f5f459731c254168346512dec0bfcb70f1c
+?
+Problem677.java,0/a/0ac8a58e6330349b98156ff413051f864e99bae9
